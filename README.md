@@ -1,10 +1,10 @@
-## 💜 Olá, meu nome é {seu nome}!
+## Olá, meu nome é Ivo Samuel!
 
-Faça uma breve apresentação sobre você e a sua stack.
+💻 Atualmente estudo programação, minha última experiência foi estagiando na empresa Softcom Tecnologia
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Elaborei o sistema para meu colégio como tema de TCC
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 Contato: Email - freelancerivo@gmail.com.
 
 ---
 
